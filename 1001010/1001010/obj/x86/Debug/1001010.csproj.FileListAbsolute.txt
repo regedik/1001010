@@ -1,0 +1,4 @@
+D:\DISK\Projects\C#\1001010\1001010\bin\Debug\1001010.exe
+D:\DISK\Projects\C#\1001010\1001010\bin\Debug\1001010.pdb
+D:\DISK\Projects\C#\1001010\1001010\obj\x86\Debug\1001010.exe
+D:\DISK\Projects\C#\1001010\1001010\obj\x86\Debug\1001010.pdb
